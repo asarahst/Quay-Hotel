@@ -1,14 +1,14 @@
-##### Quay Hotel
+**Quay Hotel**
 
 Sobre o projeto
 
 
-##### Exercício do cap 01 do livro JavaScript&Jquery desenvolvimento de interface web interativa.
+**Exercício do cap 01 do livro JavaScript&Jquery desenvolvimento de interface web interativa.**
 
 Retorna a mensagem de saudação de acordo com a hora do dia!
 
 
-Demonstração :
+**Demonstração :**
 
 Você pode conferir o resultado aqui: [demonstração]()
 
